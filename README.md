@@ -3,7 +3,7 @@
 Main
 -----
 <div>
-  <img width="700" src = "https://user-images.githubusercontent.com/53751665/71356780-91e9ea80-25c6-11ea-903a-9bec5da82cab.jpg">
+  <img width="700" src = "https://user-images.githubusercontent.com/53751665/71356933-15a3d700-25c7-11ea-80d4-ad3337db4fac.png">
 </div>
 ----------------------------------------------------------------------------------------------------------------------------------
 
